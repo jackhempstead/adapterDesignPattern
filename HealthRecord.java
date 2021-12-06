@@ -23,7 +23,6 @@ public interface HealthRecord {
      * @return the string represtation of the patients gender
      */
     public String getGender();
-
     /**
      * Adds a visit to the patients history log
      * @param visitDate The date the patient visited the medical office
